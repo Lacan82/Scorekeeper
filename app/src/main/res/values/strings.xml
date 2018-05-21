@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ScoreKeeper</string>
+    <string name="celtics_name">Celtics</string>
+    <string name="cavaliers_name">Cavaliers</string>
+    <string name="reset_button">Reset</string>
+    <string name="one_point_button">+1</string>
+    <string name="two_point_button">+2</string>
+    <string name="three_point_button">+3</string>
+    <string name="free_throw_button">Free Throw</string>
+    <string name="celtics_score">0</string>
+    <string name="cavaliers_score">0</string>
+</resources>
