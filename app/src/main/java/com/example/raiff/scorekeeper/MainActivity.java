@@ -43,12 +43,12 @@ public class MainActivity extends AppCompatActivity {
     }
     //Increase by 3 Celtics
     public void addThreeForCelics(View view) {
-        scoreCeltics = scoreCeltics + 2;
+        scoreCeltics = scoreCeltics + 3;
         displayForCeltics(scoreCeltics);
     }
     //Increase by 3 Cavaliers
     public void addThreeForCavaliers(View view) {
-        scoreCavaliers = scoreCavaliers +2;
+        scoreCavaliers = scoreCavaliers +3;
         displayForCavaliers(scoreCavaliers);
     }
 
